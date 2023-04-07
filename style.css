@@ -1,0 +1,30 @@
+.bg-fundo{
+background-color: #420000;
+width: 100%;
+height: 100vh;
+}
+#font{
+    
+}
+.bg-margin{
+    margin-left: 5vw;
+}
+h3{
+    font-family: 'Inter', sans-serif;
+}
+.bg-botao{
+    margin-left: 2vw;
+  height: 10vh;
+  width: 18vw;
+  font-family: 'Inter', sans-serif;
+  background: #00DE16;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: 800;
+  font-size: 2.5vh;
+  margin-top: 1vh;
+}
+.img-fluid{
+    margin-left: 5vw;
+    
+}
