@@ -91,7 +91,10 @@ h2.bg-texto2{
     margin-left: 7vw;
    
 }
-
+iframe{
+    max-width: 100%;
+    height: auto;
+}
 @media (max-width:770px){
     .bg-fundo{
  
